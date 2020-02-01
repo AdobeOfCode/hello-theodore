@@ -6,7 +6,7 @@ Pre-Work for CodePath Android Theodore Yu
 Android Theodore Yu Pre-Work Required + Bonus
 
 ### App Walk-though
-<img src="http://g.recordit.co/0ablgtdWDO.gif" width=200><br>
+<img src="http://g.recordit.co/8FqnZ8vqdz.gif" width=200><br>
 
 ### Required User Stories
 - [`x`] 1. User sees custom text in a label - Hello from {name}!
